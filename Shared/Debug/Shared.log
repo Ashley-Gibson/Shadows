@@ -1,0 +1,9 @@
+﻿  App.cpp
+  CommonApp.cpp
+  CommonFont.cpp
+c:\users\ash\onedrive\personal portfolio\c++ - shadows\shared\commonfont.cpp(109): warning C4456: declaration of 'ch' hides previous local declaration
+  c:\users\ash\onedrive\personal portfolio\c++ - shadows\shared\commonfont.cpp(100): note: see declaration of 'ch'
+  CommonMesh.cpp
+  D3DHelpers.cpp
+  Generating Code...
+  Shared.vcxproj -> C:\Users\Ash\OneDrive\Personal Portfolio\C++ - Shadows\Debug\Shared.lib

@@ -1,0 +1,22 @@
+﻿  Performing Custom Build Tools
+C:\Users\Ash\OneDrive\Personal Portfolio\C++ - Shadows\Shadows\DrawHeightMap.hlsl(96,23): warning X3206: 'mul': implicit truncation of vector type
+C:\Users\Ash\OneDrive\Personal Portfolio\C++ - Shadows\Shadows\DrawHeightMap.hlsl(96,9): warning X3206: implicit truncation of vector type
+C:\Users\Ash\OneDrive\Personal Portfolio\C++ - Shadows\Shadows\DrawHeightMap.hlsl(98,33): warning X3206: 'GetLightingColour': implicit truncation of vector type
+  
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\Ash\OneDrive\Personal Portfolio\C++ - Shadows\Shadows\DrawHeightMap.o
+  Performing Custom Build Tools
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see C:\Users\Ash\OneDrive\Personal Portfolio\C++ - Shadows\Shadows\DrawShadowCaster.o
+  Aeroplane.cpp
+  Application.cpp
+  HeightMap.cpp
+c:\users\ash\onedrive\personal portfolio\c++ - shadows\shadows\heightmap.cpp(142): warning C4389: '!=': signed/unsigned mismatch
+  Generating Code...
+  LINK : C:\Users\Ash\OneDrive\Personal Portfolio\C++ - Shadows\Debug\Shadows.exe not found or not built by the last incremental link; performing full link
+  Shadows.vcxproj -> C:\Users\Ash\OneDrive\Personal Portfolio\C++ - Shadows\Debug\Shadows.exe
+  Shadows.vcxproj -> C:\Users\Ash\OneDrive\Personal Portfolio\C++ - Shadows\Debug\Shadows.pdb (Full PDB)
